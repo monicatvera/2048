@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/2048/static/css/main.503cfddd.css",
+    "main.js": "/2048/static/js/main.3df74fa6.js",
+    "static/media/2048.gif": "/2048/static/media/2048.f327dac376642d6d1051.gif",
+    "static/media/clear-sans.ttf": "/2048/static/media/clear-sans.43ea7d2123718b0cfd2c.ttf",
+    "static/media/game-over.gif": "/2048/static/media/game-over.7223586a86c43a6c2902.gif",
+    "static/media/128.gif": "/2048/static/media/128.bfe74f56ba160673fb1b.gif",
+    "static/media/256.gif": "/2048/static/media/256.22a03274ba97c67b3437.gif",
+    "static/media/64.gif": "/2048/static/media/64.703f469ebcd51c30d4ec.gif",
+    "static/media/16.gif": "/2048/static/media/16.4ce00dae08a97e55d77e.gif",
+    "static/media/try-again.gif": "/2048/static/media/try-again.4f930231239de2db3c8d.gif",
+    "static/media/4.gif": "/2048/static/media/4.e3175aefe481e7058239.gif",
+    "static/media/32.gif": "/2048/static/media/32.0f7bb9c7a4e941f6495c.gif",
+    "static/media/1024.gif": "/2048/static/media/1024.d0422a77eb08d73b85c0.gif",
+    "static/media/8.gif": "/2048/static/media/8.da10f113d36b16cac5cd.gif",
+    "static/media/2.gif": "/2048/static/media/2.cb73ccf3bd443208f37f.gif",
+    "static/media/512.gif": "/2048/static/media/512.959c256e128f00187c42.gif",
+    "index.html": "/2048/index.html",
+    "main.503cfddd.css.map": "/2048/static/css/main.503cfddd.css.map",
+    "main.3df74fa6.js.map": "/2048/static/js/main.3df74fa6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.503cfddd.css",
+    "static/js/main.3df74fa6.js"
+  ]
+}
