@@ -14,5 +14,5 @@ You can try the game from this link
 
 ## Authors 🖋
 
-* **Mónica Ilenia Tardón Vera** [monitv98](https://github.com/monicatvera)
+* **Mónica Ilenia Tardón Vera** [monicatvera](https://github.com/monicatvera)
 
